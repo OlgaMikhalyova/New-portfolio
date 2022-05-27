@@ -1,6 +1,6 @@
 # Проекты выполнены в ходе обучения на курсе "Аналитик данных" («Data Analyst»)
 
-1.	###[Музыка больших городов_ЯндексМузыка (Python, Pandas)](https://github.com/OlgaMikhalyova/New-portfolio/tree/main/Проект_1)
+1. [Музыка больших городов_ЯндексМузыка (Python, Pandas)](https://github.com/OlgaMikhalyova/New-portfolio/tree/main/Проект_1)
 
 ### Целью работы было сравнение использования приложения Яндекс.Музыка в разных городах, а именно в г. Москва и Петербург. 
 
